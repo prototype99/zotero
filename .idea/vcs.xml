@@ -12,18 +12,9 @@
     <mapping directory="$PROJECT_DIR$/zotero-client/note-editor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/pdf-reader" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/pdf-reader/pdf.js" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-client/pdf-worker" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-client/pdf-worker/pdf.js" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/resource/SingleFile" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/resource/schema/global" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/styles" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-client/test/resource/chai" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-client/translators" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-standalone-build" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-standalone-build/modules/zotero-libreoffice-integration" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-standalone-build/modules/zotero-word-for-mac-integration" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-standalone-build/modules/zotero-word-for-mac-integration/build/tools/officeparser" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-standalone-build/modules/zotero-word-for-windows-integration" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/zotero-standalone-build/modules/zotero-word-for-windows-integration/build/tools/officeparser" vcs="Git" />
   </component>
 </project>
