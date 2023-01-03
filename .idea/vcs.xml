@@ -5,6 +5,8 @@
     <mapping directory="$PROJECT_DIR$/zotero-build" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-build/xpi/zotero-transfw" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zotero-client/build/styles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zotero-client/build/translators" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/chrome/content/zotero/locale/csl" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/chrome/content/zotero/xpcom/translate" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zotero-client/chrome/content/zotero/xpcom/translate/modules/utilities" vcs="Git" />
