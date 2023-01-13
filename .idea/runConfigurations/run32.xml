@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="run" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="staging/Zotero_linux-i686/zotero || staging/Zotero_linux-x86_64/zotero" />
+  <configuration default="false" name="run32" type="ShConfigurationType">
+    <option name="SCRIPT_TEXT" value="staging/Zotero_linux-i686/zotero" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
