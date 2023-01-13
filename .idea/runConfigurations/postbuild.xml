@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="postbuild" type="ShConfigurationType">
-    <option name="SCRIPT_TEXT" value="cd zotero-standalone-build &amp;&amp; scripts/dir_build" />
+    <option name="SCRIPT_TEXT" value="cd zotero-standalone-build &amp;&amp; ./fetch_xulrunner.sh -p l &amp;&amp; ./fetch_pdftools &amp;&amp; scripts/dir_build" />
     <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
     <option name="SCRIPT_PATH" value="" />
     <option name="SCRIPT_OPTIONS" value="" />
